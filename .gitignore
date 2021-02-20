@@ -1,0 +1,26 @@
+*.iml
+*.class
+.mtj.tmp/
+target/
+.idea/
+.idea/*
+*/.DS_Store
+.DS_Store
+logs/
+derby-job/
+build/
+node_modules/
+public/static/*
+public/html/*
+public/jscss/*
+# Package Files #
+*.war
+*.ear
+*.iml
+*.log
+*.zip
+*.MF
+hs_err_pid*
+dependency-reduced-pom.xml
+db/*
+public/javascripts/smooth-min.js

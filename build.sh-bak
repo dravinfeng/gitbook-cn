@@ -1,0 +1,2 @@
+#!/bin/bash
+uglifyjs ./public/javascripts/smooth.js -c -o ./public/javascripts/smooth-min.js
