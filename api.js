@@ -52,7 +52,7 @@ let register = function(app){
           return;
        }
 
-       http.get(conf.outerHost+'/_3thd/'+url,{
+       http.get(conf.outerHost+url,{
         headers:opt
        }, (res) => {
           //删除加载状态

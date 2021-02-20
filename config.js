@@ -1,8 +1,8 @@
 module.exports = {
 	name: 'arkdocs',
 	port: '3002',
-	outerHost: 'http://170.106.67.122:39297',
-	maxOldSpace: 4096,
+	outerHost: 'http://170.106.67.122:39297/_3thd/',
+	maxOldSpace: 2048,
 	// pm2 重启规则
 	schedule:[
 		// '01 30 00 * * *', //00点30分01
